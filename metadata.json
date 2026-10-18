@@ -1,0 +1,6 @@
+{
+  "name": "Education Portfolio Template",
+  "description": "A modern, elegant Education portfolio web application and customizable template for university students with Google Sites embed support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
